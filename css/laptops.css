@@ -1,0 +1,9 @@
+@media (max-width: 1301px){
+    .section_2_card_section{
+        overflow-x: scroll;
+    }
+
+    .section_2card_section_artcle{
+        flex-shrink: 0;
+    }
+}
